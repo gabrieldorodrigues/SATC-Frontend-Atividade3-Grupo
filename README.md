@@ -3,7 +3,7 @@
 Nome/Título do Projeto: menu4you - Cardápio Digital para Restaurantes
 
 Lista de Integrantes da Equipe: 
-- Gabriel De Oliveira Rodrigues;
+- Gabriel De Oliveira Rodrigues [@gabrieldorodrigues](https://github.com/gabrieldorodrigues)
 - Janaina Carlos João [@janainacarlos](https://github.com/janainacarlos)
 - Monique Cardoso Pavan [@moniquepavan](https://github.com/moniquepavan)
 - Renan Henriques.
